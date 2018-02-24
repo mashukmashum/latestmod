@@ -8,10 +8,10 @@ peerflix-server
 
 <img src="https://cdn.rawgit.com/asapach/peerflix-server/master/app/images/logo.svg" alt="logo" height="256">
 
-Streaming torrent client for node.js with web ui.
+Streaming torrent client for node.js with web ui.<br>
 <a href="https://heroku.com/deploy">
   <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy">
-</a>
+</a><br>
 ![screen capture](https://cdn.rawgit.com/asapach/peerflix-server/master/capture.gif)
 
 Based on [torrent-stream](https://github.com/mafintosh/torrent-stream), inspired by [peerflix](https://github.com/mafintosh/peerflix).
