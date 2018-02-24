@@ -1,8 +1,6 @@
 peerflix-server
 ===============
-<a href="https://heroku.com/deploy">
-  <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy">
-</a>
+
 [![NPM Version][npm-image]][npm-url]
 [![NPM Downloads][downloads-image]][downloads-url]
 [![Node.js Version][node-version-image]][node-version-url]
@@ -11,7 +9,9 @@ peerflix-server
 <img src="https://cdn.rawgit.com/asapach/peerflix-server/master/app/images/logo.svg" alt="logo" height="256">
 
 Streaming torrent client for node.js with web ui.
-
+<a href="https://heroku.com/deploy">
+  <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy">
+</a>
 ![screen capture](https://cdn.rawgit.com/asapach/peerflix-server/master/capture.gif)
 
 Based on [torrent-stream](https://github.com/mafintosh/torrent-stream), inspired by [peerflix](https://github.com/mafintosh/peerflix).
